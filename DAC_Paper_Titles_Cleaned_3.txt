@@ -1,0 +1,100 @@
+A Comparison of Virtual Condition Cylinder Evaluation Methods in Coordinate Metrology
+A Hybrid Method for Surrogate Model Updating in Engineering Design Optimization
+Predictive Carbon Nanotube Models Using the Eigenvector Dimension Reduction (EDR) Method
+Matching Geometric Shapes in 4D Space Incorporating Curvature Information
+Benefit Evaluation for Machining of Marine Propellers
+Coupling Degree of Mechanism and its Application
+A Decision Support Formulation for Design Teams: A Study in Preference Aggregation and Handling Unequal Group Members
+A Modular Design Approach to Improve the Life Cycle Performance Derived From Optimized Closed-Loop Supply Chain
+Equivalent Standard Deviation to Convert High-Reliability Model to Low-Reliability Model for Efficiency of Sampling-Based RBDO
+Interactive Modular Optimization Strategy for Layout Problems
+A Viscoelastic Based Mechanism for Improving Spring-In Angle Predictions in Compression Molded Thermoplastic Matrix Composites
+Design of Hierarchic Platforms for Customizable Products
+Probabilistic Analytical Target Cascading: A Moment Matching Formulation for Multilevel Optimization Under Uncertainty
+A Method for Integrating Form Errors Into Geometric Tolerance Analysis
+A Cost Based Methodology for Design Optimization
+OAM+: An Assembly Data Model for Legacy Systems Engineering
+Recognizing Network-Like Hand-Drawn Sketches: A Convolutional Neural Network Approach
+The Application of Product Platform Design to the Reuse of Electronic Components Subject to Long-Term Supply Chain Disruptions
+The Effect of Reward Interdependence of Strategies in Evolutionary Multi-Agent Systems
+Global Stiffness Improvement for Tricept Machine Tools Family
+Interval Uncertainty Reduction and Single-Disciplinary Sensitivity Analysis With Multi-Objective Optimization
+The Role of Contraints and Human Interaction in Evolving MEMS Designs: Microresonator Case Study
+Cycle Based Robot Drive Train Optimization Utilizing SVD Analysis
+Topology Optimization of a Compliant Gripper Using Hybrid Simulated Annealing and Direct Search
+Improved Head Restraint Design for Safety and Compliance
+Optimization of Bicycle Frames Using Genetic Algorithms
+Robustness of Residual Stresses in Brake Discs by Metamodeling
+A Simulation-Based RBDO Method Using Probabilistic Re-Analysis and a Trust-Region Approach
+Application of Dynamic State Variable Models for Multiple-Generation Product Lines With Cannibalization Across Generations
+Product Optimization Incorporating Discrete Design Variables Based on Decomposition of Performance Characteristics
+Lifecycle-Based Product Design Using Global Optimization Methods Based on Hierarchical Genotype Representation of Alternatives and Constraints
+Study of the Sequential Constraint-Handling Technique for Evolutionary Optimization With Application to Structural Problems
+A Fuzzy Dynamic Programming Approach for Mixed-Discrete Multistage Decision Processes
+Sequential Optimization and Reliability Assessment Method for Efficient Probabilistic Design
+Robust Structural Design Optimization Under Non-Probabilistic Uncertainties
+Adaptive-Agent Based Simulation Model to Study Diffusion of Eco-Innovation Strategies
+A New Approach to Probabilistic Risk Analysis in Concurrent and Distributed Design of Aerospace Systems
+Optimization Design of a Spatial Six-Degree-of-Freedom Parallel Manipulator Based on Genetic Algorithms and Neural Networks
+Concept Analysis for Reconfigurable Products
+BB-ATV: Analytical Target Cascading Using Branch and Bound for Mixed-Integer Nonlinear Programming
+An Approach to Improved Decentralized Design: The Modified Approximation-Based Decentralized Design (MADD) Framework
+A Functionally-Aware Product Schematic Clustering Algorithm
+A New Inverse Reliability Analysis Method Using MPP-Based Dimension Reduction Method (DRM)
+A Function-Based Methodology for Analyzing Critical Events
+A Fast Grid Deformation Algorithm for Aerodynamic Shape Optimization
+A Method for Benchmarking Product Family Design Alternatives
+Unified Distance Queries in a Heterogeneous Model Environment
+A CAD Package for High-Speed CAM Design Based on Direct Multiple Shooting Optimal Control Techniques
+Geometric Containment Analysis for Rotational Parts
+Theoretical and Experimental Characterization of the 34.6 2D Lattice Material
+Multi-Objective Design and Tolerance Allocation for Single- and Multi-Level Systems
+Comparison of Gene Expression Programming and Common Metamodeling Techniques in Engineering Design
+A Method for Identifying Design Principles for the Developing World
+An Effective Random Field Characterization for Probability Analysis and Design
+Parameterization Strategy for Optimization of Shape Morphing Compliant Mechanisms Using Load Path Representation
+Some Metrics and a Bayesian Procedure for Validating Predictive Models in Engineering Design
+Math-Based Performance Evaluation of an Experimental Car: Frontal Impact Crashworthiness
+A Modified Continuous Reactive Tabu Search for Damage Detection in Beams
+Gaussian Process Meta-Models for Efficient Probabilistic Design in Complex Engineering Design Spaces
+A Concurrent Design Method for Multiple Cross-Sectional Automotive Body Frames Involving Discrete and Continuous Design Variables
+Shape Recovery From Medical Image Data Using Extended Superquadrics
+FEA-Based Design of Heterogeneous Objects
+Insertion of Planar Areas Into Free-Form Surfaces in Early Product Design
+A Method for Determining the Optimal Direction of the Principal Moment of Inertia in Frame Element Cross-Sections
+2-D Deposition Pattern and Strategy Study on Rapid Manufacturing
+A Study of Covariance Functions for Multi-Response Metamodeling for Simulation-Based Design and Optimization
+A Hybrid Sensitivity Analysis for Use in Early Design
+Reverse Engineering of Geometric Surfaces Using Tabu Search Optimization Technique
+Smart Assemblies for Robot Design: A Progress Report
+Exploiting Shape Similarity in Engineering Analysis
+Feasibility Assessment in Preliminary Design Using Pareto Sets
+Tolerance Allocation of Assemblies Using Fuzzy Comprehensive Evaluation and Decision Support Processes
+Development of an Interactive Web-Based Support System for Gear Design
+Non-Probabilistic Based Structural Design Optimization Under External Load Uncertainty With Eigenvalue-Superposition of Convex Models
+Review of Metamodeling Techniques in Support of Engineering Design Optimization
+Object-Oriented Modeling of Industrial Manipulators With Application to Energy Optimal Trajectory Scaling
+A Group Technology Based Representation for Product Portfolios
+Exploring Marketing to Engineering Information Mapping in Mass Customization: A Presentation of Ideas- Challenges and Resulting Questions
+A Context-Aware Information Model for Elderly Homecare Services in a Smart Home
+Low-Velocity Impact Behavior of Aluminum-Fiber/Epoxy Laminates: A Comprehensive Experimental Study
+An Integrated Robust Design and Marketing Approach for Product Design Selection Process
+Safety of Spur Gear Design Under Non-Ideal Conditions With Uncertainty
+An Approach to Automated Conversion From Design Feature Model to Analysis Feature Model
+Robust Design of Cellular Materials With Topological and Dimensional Imperfections
+Wavelet SDF-Reps: Solid Modeling With Volumetric Scans
+Application of Shape Grammars to Planning for CNC Machining
+Design for Project Change Management: Part 2 -- Attribute Design
+Use of Constrained Viscoelastic Layers in the Design of Satellite Panels to Predict the Amplification Factor
+A Development Methodology for Parametric Synthesis Tools
+Curve Shape Modification and Fairness Evaluation
+Objective-Oriented Sequential Sampling for Simulation Based Robust Design Considering Multiple Sources of Uncertainty
+Knowledge Intensive Support for Product Family Design
+Development of Distributed Computing Framework for Parallel Multi-Disciplinary Optimization
+Determine Mesh Orientation by Voxel-Based Principal Component Analysis
+Simultaneous Geometry Optimization and Material Selection for Truss Structures
+Lighting Optimization for Sustainable Building Design Considering User Productivity
+Design Decision-Making in the Early Stages of Collaborative Engineering
+A Deterministic Lagrangian-Based Global Optimization Approach for Large Scale Decomposable Problems
+A Structure-Based Approach to Mearsuring Adaptability of Product Design
+A Port-Based Agent Approach to Guiding Concept Generation for Customizing Modular Varieties
